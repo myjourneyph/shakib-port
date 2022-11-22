@@ -7,6 +7,7 @@ body {
     text-align: justify;
 }
 
+
 .orange {
     color: orange;
 }
@@ -36,4 +37,10 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+
+.dreambig {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
